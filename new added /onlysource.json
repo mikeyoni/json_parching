@@ -1,0 +1,5746 @@
+[
+    [
+        {
+            "baseUrl": "https://comic-growl.com",
+            "id": "299423548273637501",
+            "lang": "all",
+            "name": "Comic Growl"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://wp.comicskingdom.com",
+            "id": "3350274514125477391",
+            "lang": "en",
+            "name": "Comics Kingdom"
+        },
+        {
+            "baseUrl": "https://wp.comicskingdom.com",
+            "id": "6467305425630534148",
+            "lang": "es",
+            "name": "Comics Kingdom"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comikey.com",
+            "id": "2769857481066602061",
+            "lang": "en",
+            "name": "Comikey"
+        },
+        {
+            "baseUrl": "https://comikey.com",
+            "id": "374080003312345029",
+            "lang": "es",
+            "name": "Comikey"
+        },
+        {
+            "baseUrl": "https://comikey.com",
+            "id": "1684620622390751911",
+            "lang": "id",
+            "name": "Comikey"
+        },
+        {
+            "baseUrl": "https://comikey.com",
+            "id": "4174862482785095737",
+            "lang": "pt-BR",
+            "name": "Comikey"
+        },
+        {
+            "baseUrl": "https://br.comikey.com",
+            "id": "4923846262931005728",
+            "lang": "pt-BR",
+            "name": "Comikey Brasil"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.commitstrip.com",
+            "id": "5328240584854276436",
+            "lang": "en",
+            "name": "Commit Strip"
+        },
+        {
+            "baseUrl": "https://www.commitstrip.com",
+            "id": "4187575309418573632",
+            "lang": "fr",
+            "name": "Commit Strip"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://to-corona-ex.com",
+            "id": "4760608706245794364",
+            "lang": "ja",
+            "name": "Corona EX"
+        },
+        {
+            "baseUrl": "https://en.to-corona-ex.com",
+            "id": "8608333040792766579",
+            "lang": "en",
+            "name": "Corona EX"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://cubari.moe",
+            "id": "6338219619148105941",
+            "lang": "en",
+            "name": "Cubari"
+        },
+        {
+            "baseUrl": "https://cubari.moe",
+            "id": "1470847599087460255",
+            "lang": "all",
+            "name": "Cubari"
+        },
+        {
+            "baseUrl": "https://cubari.moe",
+            "id": "2013845246758512290",
+            "lang": "other",
+            "name": "Cubari"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5855032551259176250",
+            "lang": "en",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "7989144075938821809",
+            "lang": "fr",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "2033023429560344772",
+            "lang": "ja",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "4903395296014438593",
+            "lang": "zh",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "2743233241005498558",
+            "lang": "es",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8107468051584194246",
+            "lang": "it",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5511951724437637256",
+            "lang": "pt",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "7576053878109850761",
+            "lang": "de",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8371548443782837856",
+            "lang": "pl",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5007169057258882420",
+            "lang": "nl",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5582703984897222132",
+            "lang": "fr",
+            "name": "Dragon Ball Multiverse Parody"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "7492246554765916610",
+            "lang": "tr",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "1618337326936347760",
+            "lang": "pt-BR",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "525585394857906081",
+            "lang": "hu",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "4704003050199034697",
+            "lang": "ga",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8851885792094862644",
+            "lang": "ca",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "6890714885948456521",
+            "lang": "no",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "7944056408443917590",
+            "lang": "ru",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "2620385605605077513",
+            "lang": "ro",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5961569572141989337",
+            "lang": "eu",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5710504167796125606",
+            "lang": "lt",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8978307150219982189",
+            "lang": "hr",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "2035574753584485369",
+            "lang": "ko",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "3125099729987730580",
+            "lang": "fi",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "5131201512681860705",
+            "lang": "he",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "4845919081798207608",
+            "lang": "bg",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "1446884092638094471",
+            "lang": "sv",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "9218696211252404910",
+            "lang": "el",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "4156406679136971778",
+            "lang": "es-419",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "3744905183009204736",
+            "lang": "ar",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "3217346477673086342",
+            "lang": "fil",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "4102859909531263289",
+            "lang": "la",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "3145772760974227844",
+            "lang": "da",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8542101819541236153",
+            "lang": "co",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "1106049048608045535",
+            "lang": "br",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "6824599919928625662",
+            "lang": "vec",
+            "name": "Dragon Ball Multiverse"
+        },
+        {
+            "baseUrl": "https://www.dragonball-multiverse.com",
+            "id": "8795012289956874023",
+            "lang": "lmo",
+            "name": "Dragon Ball Multiverse"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://127.0.0.1",
+            "id": "6351052922295965587",
+            "lang": "other",
+            "name": "FoolSlide Customizable"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://grabber.zone",
+            "id": "7008887237419113673",
+            "lang": "all",
+            "name": "Grabber Zone"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hni-scantrad.net",
+            "id": "4972198006998831006",
+            "lang": "all",
+            "name": "HNI-Scantrad"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://holoearth.com",
+            "id": "8779183423368672304",
+            "lang": "ja",
+            "name": "HOLONOMETRIA"
+        },
+        {
+            "baseUrl": "https://holoearth.com",
+            "id": "1334492919632049277",
+            "lang": "en",
+            "name": "HOLONOMETRIA"
+        },
+        {
+            "baseUrl": "https://holoearth.com",
+            "id": "5054301488874110968",
+            "lang": "id",
+            "name": "HOLONOMETRIA"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.izneo.com/en/webtoon",
+            "id": "7160867804476891075",
+            "lang": "en",
+            "name": "izneo"
+        },
+        {
+            "baseUrl": "https://www.izneo.com/fr/webtoon",
+            "id": "1002111777562806129",
+            "lang": "fr",
+            "name": "izneo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kodokustudio.com",
+            "id": "1835150489344342556",
+            "lang": "all",
+            "name": "Kodoku Studio"
+        }
+    ],
+    [
+        {
+            "baseUrl": "",
+            "id": "4508733312114627536",
+            "lang": "all",
+            "name": "Komga"
+        },
+        {
+            "baseUrl": "",
+            "id": "8074481155021144106",
+            "lang": "all",
+            "name": "Komga (2)"
+        },
+        {
+            "baseUrl": "",
+            "id": "5132811728275817394",
+            "lang": "all",
+            "name": "Komga (3)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://127.0.0.1:3000",
+            "id": "4482480338677079857",
+            "lang": "all",
+            "name": "LANraragi (1)"
+        },
+        {
+            "baseUrl": "http://127.0.0.1:3000",
+            "id": "6188058704030343819",
+            "lang": "all",
+            "name": "LANraragi (2)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/en_us/comic/",
+            "id": "5421383187922044761",
+            "lang": "en",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/de_de/comic/",
+            "id": "380479987909263478",
+            "lang": "de",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/es_es/comic/",
+            "id": "2505034801993260082",
+            "lang": "es",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/fr_fr/comic/",
+            "id": "8921189687191630727",
+            "lang": "fr",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/it_it/comic/",
+            "id": "2993141237027207546",
+            "lang": "it",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/pl_pl/comic/",
+            "id": "4102855915741272173",
+            "lang": "pl",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/el_gr/comic/",
+            "id": "3431750855616467337",
+            "lang": "el",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/ro_ro/comic/",
+            "id": "8175862906648984382",
+            "lang": "ro",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/hu_hu/comic/",
+            "id": "8553752347472368081",
+            "lang": "hu",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/cs_cz/comic/",
+            "id": "241129525014815798",
+            "lang": "cs",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/es_mx/comic/",
+            "id": "3236903197935016602",
+            "lang": "es-419",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/pt_br/comic/",
+            "id": "7646731134152168219",
+            "lang": "pt-BR",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/ja_jp/comic/",
+            "id": "1617144019668124895",
+            "lang": "ja",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/ru_ru/comic/",
+            "id": "6359895141227528344",
+            "lang": "ru",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/tr_tr/comic/",
+            "id": "4983763186502997670",
+            "lang": "tr",
+            "name": "League of Legends"
+        },
+        {
+            "baseUrl": "https://universe.leagueoflegends.com/ko_kr/comic/",
+            "id": "1822275077186160208",
+            "lang": "ko",
+            "name": "League of Legends"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mahoushoujobu.com",
+            "id": "4033172788130537982",
+            "lang": "en",
+            "name": "Magical Translators"
+        },
+        {
+            "baseUrl": "https://mahoushoujobu.com",
+            "id": "8666919453546333116",
+            "lang": "es",
+            "name": "Magical Translators"
+        },
+        {
+            "baseUrl": "https://mahoushoujobu.com",
+            "id": "1289819859468493242",
+            "lang": "pl",
+            "name": "Magical Translators"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangadraft.com",
+            "id": "6866320578550428692",
+            "lang": "all",
+            "name": "MangaDraft"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "1998944621602463790",
+            "lang": "en",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "1286073245950890830",
+            "lang": "es",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "7642759409549978864",
+            "lang": "fr",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "932564577108614127",
+            "lang": "id",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "3444662672352788181",
+            "lang": "pt-BR",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "3520485566708512181",
+            "lang": "ru",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "6345211913721743017",
+            "lang": "th",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "4696259977267090434",
+            "lang": "vi",
+            "name": "MANGA Plus by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus.shueisha.co.jp",
+            "id": "1893513843840146580",
+            "lang": "de",
+            "name": "MANGA Plus by SHUEISHA"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaplus-creators.jp",
+            "id": "4994699950662723787",
+            "lang": "en",
+            "name": "MANGA Plus Creators by SHUEISHA"
+        },
+        {
+            "baseUrl": "https://mangaplus-creators.jp",
+            "id": "1894436225000314286",
+            "lang": "es",
+            "name": "MANGA Plus Creators by SHUEISHA"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangataro.org",
+            "id": "8358097306709528603",
+            "lang": "en",
+            "name": "MangaTaro"
+        },
+        {
+            "baseUrl": "https://mangataro.org",
+            "id": "1304052096857017174",
+            "lang": "pt-BR",
+            "name": "MangaTaro"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "5676233752760414531",
+            "lang": "zh",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "4795663388852759880",
+            "lang": "en",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "6572636034693050219",
+            "lang": "id",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "6849356311438092898",
+            "lang": "vi",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "958417049187203678",
+            "lang": "es",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "2064722193112934135",
+            "lang": "pt-BR",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "6266226783871841407",
+            "lang": "th",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "6666752184827525866",
+            "lang": "fr",
+            "name": "MangaToon (Limited)"
+        },
+        {
+            "baseUrl": "https://mangatoon.mobi",
+            "id": "3509597554682217593",
+            "lang": "ja",
+            "name": "MangaToon (Limited)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://global.manga-up.com",
+            "id": "7689478295161479290",
+            "lang": "en",
+            "name": "Manga UP!"
+        }
+    ],
+    [
+        {
+            "baseUrl": "",
+            "id": "2882993841250976719",
+            "lang": "en",
+            "name": "Mango"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mayochuu.xyz",
+            "id": "1480743237782384863",
+            "lang": "en",
+            "name": "MayoTune"
+        },
+        {
+            "baseUrl": "https://mayochuu.xyz",
+            "id": "6644592287307303034",
+            "lang": "ja",
+            "name": "MayoTune"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6815287454679474132",
+            "lang": "en",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7830959603474646022",
+            "lang": "ar",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7871287213449294583",
+            "lang": "bg",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "5335008997233394468",
+            "lang": "ca",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1163192659786040070",
+            "lang": "zh-Hans",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7859611418350123856",
+            "lang": "zh-Hant",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1125922332535233758",
+            "lang": "hr",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "2037282477963681758",
+            "lang": "cs",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7548417938714777333",
+            "lang": "da",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "4139908687076589734",
+            "lang": "nl",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1004520286290933688",
+            "lang": "et",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7846542287071503597",
+            "lang": "fil",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "8873510733793144577",
+            "lang": "fi",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "2688801006759321823",
+            "lang": "fr",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6619013782987672377",
+            "lang": "de",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7683690509668356869",
+            "lang": "el",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "961340698570426919",
+            "lang": "he",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "5974308089281665684",
+            "lang": "hi",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7787558791584052317",
+            "lang": "hu",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1123824014117121209",
+            "lang": "is",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "3535683894794049489",
+            "lang": "ga",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1325956500558078102",
+            "lang": "id",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "5975471501347973768",
+            "lang": "it",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6873060443067341608",
+            "lang": "ja",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1524915323009957887",
+            "lang": "ko",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6196723908897486263",
+            "lang": "lt",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6113965282317121452",
+            "lang": "ms",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1665825055279512321",
+            "lang": "ne",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6572043706378944577",
+            "lang": "no",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "723436680125197351",
+            "lang": "pa",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "569401976641132670",
+            "lang": "fa",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "5296681357952677059",
+            "lang": "pl",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1401973320108574400",
+            "lang": "pt-BR",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "4804474291848639489",
+            "lang": "pt",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "296214928329015811",
+            "lang": "ru",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1406651071058914280",
+            "lang": "sk",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1665334647759224307",
+            "lang": "sl",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "3720618907480183068",
+            "lang": "es-419",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7482985666811016125",
+            "lang": "es",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "4005855460574344551",
+            "lang": "sv",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "6825567325220655211",
+            "lang": "th",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "1404231504220588104",
+            "lang": "tr",
+            "name": "NamiComi"
+        },
+        {
+            "baseUrl": "https://namicomi.com",
+            "id": "7458865308108369667",
+            "lang": "uk",
+            "name": "NamiComi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.ninemanga.com",
+            "id": "120391793502126753",
+            "lang": "en",
+            "name": "NineMangaEn"
+        },
+        {
+            "baseUrl": "https://es.ninemanga.com",
+            "id": "4097111295486074350",
+            "lang": "es",
+            "name": "NineMangaEs"
+        },
+        {
+            "baseUrl": "https://br.ninemanga.com",
+            "id": "7162569729467394726",
+            "lang": "pt-BR",
+            "name": "NineMangaBr"
+        },
+        {
+            "baseUrl": "https://ru.ninemanga.com",
+            "id": "6531002958728774729",
+            "lang": "ru",
+            "name": "NineMangaRu"
+        },
+        {
+            "baseUrl": "https://de.ninemanga.com",
+            "id": "8454920920230076882",
+            "lang": "de",
+            "name": "NineMangaDe"
+        },
+        {
+            "baseUrl": "https://it.ninemanga.com",
+            "id": "4312023446566221911",
+            "lang": "it",
+            "name": "NineMangaIt"
+        },
+        {
+            "baseUrl": "https://fr.ninemanga.com",
+            "id": "3415116372640359218",
+            "lang": "fr",
+            "name": "NineMangaFr"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.peppercarrot.com",
+            "id": "279282683217001983",
+            "lang": "all",
+            "name": "Pepper&Carrot"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://projectsuki.com/",
+            "id": "8965918600406781666",
+            "lang": "all",
+            "name": "Project Suki"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.sandraandwoo.com",
+            "id": "8111958912268118735",
+            "lang": "de",
+            "name": "Sandra und Woo"
+        },
+        {
+            "baseUrl": "https://www.sandraandwoo.com",
+            "id": "8566345145646340492",
+            "lang": "en",
+            "name": "Sandra and Woo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://taddy.org",
+            "id": "2332326521515456967",
+            "lang": "all",
+            "name": "Taddy INK (Webtoons)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "4379246890416497052",
+            "lang": "id",
+            "name": "The Library of Ohara"
+        },
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "2727140669803764425",
+            "lang": "en",
+            "name": "The Library of Ohara"
+        },
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "1081764220356482621",
+            "lang": "es",
+            "name": "The Library of Ohara"
+        },
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "282587253597010652",
+            "lang": "it",
+            "name": "The Library of Ohara"
+        },
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "8205252065972088770",
+            "lang": "ar",
+            "name": "The Library of Ohara"
+        },
+        {
+            "baseUrl": "https://thelibraryofohara.com",
+            "id": "7219503638837099253",
+            "lang": "fr",
+            "name": "The Library of Ohara"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lavascans.com",
+            "id": "3209001028102012989",
+            "lang": "ar",
+            "name": "Lava Scans"
+        },
+        {
+            "baseUrl": "https://en-thunderscans.com",
+            "id": "2848420679472350044",
+            "lang": "en",
+            "name": "Thunder Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://vinnieveritas.com/",
+            "id": "9005452006043030878",
+            "lang": "en",
+            "name": "Vinnie Veritas - CCC"
+        },
+        {
+            "baseUrl": "https://vinnieveritas.com/",
+            "id": "2264075849201286666",
+            "lang": "es",
+            "name": "Vinnie Veritas - CCC"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "2522335540328470744",
+            "lang": "en",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "8749627068478740298",
+            "lang": "id",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "3330861233813615504",
+            "lang": "th",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "8664735734660636295",
+            "lang": "es",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "8251758253314457060",
+            "lang": "fr",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "2959982438613576472",
+            "lang": "zh-Hant",
+            "name": "Webtoons.com"
+        },
+        {
+            "baseUrl": "https://www.webtoons.com",
+            "id": "1486822823904297379",
+            "lang": "de",
+            "name": "Webtoons.com"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2909932855774980787",
+            "lang": "en",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "5196522547754842244",
+            "lang": "zh-Hans",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "1016181401146312893",
+            "lang": "zh-Hant",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "1248510948017593518",
+            "lang": "th",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "9099625279607630424",
+            "lang": "id",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2713386159585459304",
+            "lang": "fr",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "1143507468946521173",
+            "lang": "vi",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "5518139233481768385",
+            "lang": "ru",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "9095569612750018806",
+            "lang": "ar",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "987907117607483547",
+            "lang": "fil",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "302426112155791363",
+            "lang": "de",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "4813253161935544774",
+            "lang": "hi",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "8380653399820152316",
+            "lang": "it",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "3345108299433070920",
+            "lang": "ja",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "275670196689829558",
+            "lang": "pt-BR",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2002577432976464313",
+            "lang": "tr",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "7152051434914714980",
+            "lang": "ms",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "945070544642782769",
+            "lang": "pl",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "9219933036054791613",
+            "lang": "pt",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "4491686682898882413",
+            "lang": "bg",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "6214674134556873057",
+            "lang": "da",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "5395337934603197359",
+            "lang": "nl",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "1810269772603542057",
+            "lang": "ro",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "9124030765514623833",
+            "lang": "mn",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2528465022697416175",
+            "lang": "el",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2309438911174734518",
+            "lang": "lt",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "5797892749908651281",
+            "lang": "cs",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2203611094544482220",
+            "lang": "sv",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "4087355749124673740",
+            "lang": "bn",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "491706257185842940",
+            "lang": "fa",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "6570267890236479931",
+            "lang": "uk",
+            "name": "Webtoons.com Translations"
+        },
+        {
+            "baseUrl": "https://translate.webtoons.com",
+            "id": "2663478323844416620",
+            "lang": "es",
+            "name": "Webtoons.com Translations"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://xkcd.com",
+            "id": "1538249443376436084",
+            "lang": "en",
+            "name": "xkcd"
+        },
+        {
+            "baseUrl": "https://es.xkcd.com",
+            "id": "6901469937775055420",
+            "lang": "es",
+            "name": "xkcd"
+        },
+        {
+            "baseUrl": "https://xkcd.tw",
+            "id": "8162821425156695837",
+            "lang": "zh",
+            "name": "xkcd"
+        },
+        {
+            "baseUrl": "https://xkcd.lapin.org",
+            "id": "987306860406766740",
+            "lang": "fr",
+            "name": "xkcd"
+        },
+        {
+            "baseUrl": "https://xkcd.ru",
+            "id": "3742763978853704441",
+            "lang": "ru",
+            "name": "xkcd"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.ysk-comics.com",
+            "id": "9170389107417152397",
+            "lang": "ar",
+            "name": "YSK Comics"
+        },
+        {
+            "baseUrl": "https://www.ysk-comics.com",
+            "id": "177448809266948921",
+            "lang": "en",
+            "name": "YSK Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ar.kenmanga.com",
+            "id": "8112280317896333809",
+            "lang": "ar",
+            "name": "أريا مانجا"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ar.areascans.org",
+            "id": "241593018172482505",
+            "lang": "ar",
+            "name": "Area Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://azoramoon.com",
+            "id": "2482399499047903203",
+            "lang": "ar",
+            "name": "Azora"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.umimanga.com",
+            "id": "6404296554681042513",
+            "lang": "ar",
+            "name": "Umi Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://arcomixverse.blogspot.com",
+            "id": "7487319247633385575",
+            "lang": "ar",
+            "name": "Comic Verse"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.hadess.xyz",
+            "id": "5952392608448542590",
+            "lang": "ar",
+            "name": "Hadess"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.detectiveconanar.com",
+            "id": "5702082694566979718",
+            "lang": "ar",
+            "name": "شبكة كونان العربية"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dilar.tube#, https://golden.rest",
+            "id": "6272541812251031526",
+            "lang": "ar",
+            "name": "Dilar"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hijala.com",
+            "id": "917436262447415426",
+            "lang": "ar",
+            "name": "Hijala"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://fl-ares.com",
+            "id": "230017529540228175",
+            "lang": "ar",
+            "name": "ARESManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://loner-tl.blogspot.com",
+            "id": "323105186892383931",
+            "lang": "ar",
+            "name": "Loner Translations"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://3asq.org",
+            "id": "1073624495230267708",
+            "lang": "ar",
+            "name": "مانجا العاشق"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-ai-land.blogspot.com",
+            "id": "7109397520501699498",
+            "lang": "ar",
+            "name": "Manga Ai Land"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lekmanga.net#, https://lekmanga.online#, https://like-manga.net#, https://lekmanga.site#, https://manga-leko.site",
+            "id": "918460697583900080",
+            "lang": "ar",
+            "name": "مانجا ليك"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://link-manga.net",
+            "id": "3568795724496898351",
+            "lang": "ar",
+            "name": "مانجا لينك"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-lionz.org",
+            "id": "2589550143244611118",
+            "lang": "ar",
+            "name": "MangaLionz"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangarabic.com",
+            "id": "909469885483358759",
+            "lang": "ar",
+            "name": "MangaRabic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangarose.net",
+            "id": "7107091939235823176",
+            "lang": "ar",
+            "name": "Manga Rose"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-spark.net",
+            "id": "2436176998646301840",
+            "lang": "ar",
+            "name": "MangaSpark"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-starz.net",
+            "id": "6058166507489091982",
+            "lang": "ar",
+            "name": "Manga Starz"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://appswat.com",
+            "id": "7657007209499352344",
+            "lang": "ar",
+            "name": "MangaSwat"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangatales.com",
+            "id": "5218550345649535189",
+            "lang": "ar",
+            "name": "Manga Tales"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangatek.com",
+            "id": "1011491016492324749",
+            "lang": "ar",
+            "name": "MangaTek"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaatrend.net",
+            "id": "3509183087698743427",
+            "lang": "ar",
+            "name": "Manga Trend"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaxcore.xyz",
+            "id": "9042359004298978629",
+            "lang": "ar",
+            "name": "Mangax Core"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhatok.blogspot.com",
+            "id": "743599002989616408",
+            "lang": "ar",
+            "name": "Manhatok"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.murim.site",
+            "id": "4966914277555229831",
+            "lang": "ar",
+            "name": "Murim"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://niji-translations.com",
+            "id": "2102294221965772686",
+            "lang": "ar",
+            "name": "Niji Translations"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nb19u.blogspot.com",
+            "id": "1862668423724227387",
+            "lang": "ar",
+            "name": "Oduto"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://olaoe.cyou",
+            "id": "6505349724663768497",
+            "lang": "ar",
+            "name": "Olaoe"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://onma.me",
+            "id": "335499577904379512",
+            "lang": "ar",
+            "name": "مانجا اون لاين"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rocksmanga.com",
+            "id": "3301038340499911137",
+            "lang": "ar",
+            "name": "Rocks Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://4uscans.com",
+            "id": "2102721599186482805",
+            "lang": "ar",
+            "name": "Scans 4u"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.shqqaa.com",
+            "id": "6262106764679184511",
+            "lang": "ar",
+            "name": "مانجا شقاع"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://stellarsaber.pro",
+            "id": "2142158598125421915",
+            "lang": "ar",
+            "name": "StellarSaber"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://olympustaff.com",
+            "id": "4110737012647435874",
+            "lang": "ar",
+            "name": "Team X"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://waveteamy.com",
+            "id": "898162339487144205",
+            "lang": "ar",
+            "name": "WaveTeamy"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.xsano-manga.com",
+            "id": "6170348197605244575",
+            "lang": "ar",
+            "name": "XSano Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://yokai-team.blogspot.com",
+            "id": "4337506350787725909",
+            "lang": "ar",
+            "name": "Yokai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://utsukushii-bg.com",
+            "id": "4406556873729219957",
+            "lang": "bg",
+            "name": "Utsukushii"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.fansubs.cat",
+            "id": "3974404971892520732",
+            "lang": "ca",
+            "name": "Fansubs.cat"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-tube.me",
+            "id": "6851437974515624757",
+            "lang": "de",
+            "name": "Manga Tube"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://aeinscans.com",
+            "id": "5167190516702075823",
+            "lang": "en",
+            "name": "Aein Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://akaicomic.org",
+            "id": "1987646205658282178",
+            "lang": "en",
+            "name": "Akai Comic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://alandal.com",
+            "id": "2048669781308052214",
+            "lang": "en",
+            "name": "Alandal"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://allmanga.to",
+            "id": "4709139914729853090",
+            "lang": "en",
+            "name": "AllManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://aquareader.net",
+            "id": "626267698662819838",
+            "lang": "en",
+            "name": "Aqua Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://arcanescans.com",
+            "id": "3730279390037035104",
+            "lang": "en",
+            "name": "Arcanescans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://arc-relight.com",
+            "id": "6809555026902049727",
+            "lang": "en",
+            "name": "Arc-Relight"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://artlapsa.com",
+            "id": "734404203508686053",
+            "lang": "en",
+            "name": "Art Lapsa"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://arvencomics.com",
+            "id": "1644996696929251104",
+            "lang": "en",
+            "name": "Arven Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://vortexscans.org",
+            "id": "2559570015828016575",
+            "lang": "en",
+            "name": "Vortex Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://brainrotcomics.com",
+            "id": "7621724834621233483",
+            "lang": "en",
+            "name": "Arya Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://asmotoon.com",
+            "id": "5258838449396844455",
+            "lang": "en",
+            "name": "Asmodeus Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://assortedscans.com",
+            "id": "8088090686762347480",
+            "lang": "en",
+            "name": "Assorted Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://asuracomic.net",
+            "id": "6247824327199706550",
+            "lang": "en",
+            "name": "Asura Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comicaurora.com",
+            "id": "9148518200946142514",
+            "lang": "en",
+            "name": "Aurora"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://azcomic.com",
+            "id": "5057367751125439940",
+            "lang": "en",
+            "name": "azComic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://baektoons.com",
+            "id": "390628845469661627",
+            "lang": "en",
+            "name": "Baek Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bakkin.moe/reader/",
+            "id": "2005076600562293471",
+            "lang": "en",
+            "name": "Bakkin"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://127.0.0.1/",
+            "id": "6251873330157357206",
+            "lang": "en",
+            "name": "Bakkin Self-hosted"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://batcave.biz",
+            "id": "7422099479605463706",
+            "lang": "en",
+            "name": "BatCave"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.deatte5.com",
+            "id": "2529980242070778875",
+            "lang": "en",
+            "name": "Battle In 5 Seconds After Meeting"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://boratscans.com",
+            "id": "7909401032149692930",
+            "lang": "en",
+            "name": "Borat Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://politeandgood.com",
+            "id": "2175678633501332475",
+            "lang": "en",
+            "name": "Broccoli Soup"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.clone-army.org/",
+            "id": "5740849136135469941",
+            "lang": "en",
+            "name": "Clone Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://clowncorps.net",
+            "id": "285164574089229147",
+            "lang": "en",
+            "name": "Clown Corps"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.collectedcurios.com",
+            "id": "1896428900030795228",
+            "lang": "en",
+            "name": "Collected Curios"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comichubfree.com",
+            "id": "2310489567413492709",
+            "lang": "en",
+            "name": "ComicHubFree"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.darklegacycomics.com",
+            "id": "1650720534254409337",
+            "lang": "en",
+            "name": "Dark Legacy Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://darkscans.net",
+            "id": "8273498201739375095",
+            "lang": "en",
+            "name": "Dark Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dresdencodak.com",
+            "id": "2059482759352416637",
+            "lang": "en",
+            "name": "Dark Science"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.darthsanddroids.net",
+            "id": "1395072850055110585",
+            "lang": "en",
+            "name": "Darths & Droids"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reader.deathtollscans.net",
+            "id": "4722346859737894698",
+            "lang": "en",
+            "name": "Death Toll Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://digitalcomicmuseum.com",
+            "id": "1057298314437889941",
+            "lang": "en",
+            "name": "Digital Comic Museum"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dragontea.ink",
+            "id": "6573506892686767219",
+            "lang": "en",
+            "name": "DragonTea"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://drakecomic.org",
+            "id": "8284219650954312474",
+            "lang": "en",
+            "name": "Drake Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.egscomics.com",
+            "id": "6631281276194159210",
+            "lang": "en",
+            "name": "El Goonish Shive"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://elan.school",
+            "id": "6159323532820101296",
+            "lang": "en",
+            "name": "Elan School"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://elftoon.com",
+            "id": "3896703921896511395",
+            "lang": "en",
+            "name": "Elf Toon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://erosxsun.xyz",
+            "id": "1124131000360667434",
+            "lang": "en",
+            "name": "Eros Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://evascans.org",
+            "id": "1911019612901009263",
+            "lang": "en",
+            "name": "Eva Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://evilflowers.com",
+            "id": "4678824815214529530",
+            "lang": "en",
+            "name": "Evil Flowers"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://existentialcomics.com",
+            "id": "684582342346256208",
+            "lang": "en",
+            "name": "Existential Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://explosm.net",
+            "id": "491094567635736188",
+            "lang": "en",
+            "name": "Cyanide & Happiness"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ezmanga.org",
+            "id": "610148674542079240",
+            "lang": "en",
+            "name": "EZmanga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://firescans.xyz",
+            "id": "5761461704760730187",
+            "lang": "en",
+            "name": "Firescans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://flamecomics.xyz",
+            "id": "8531542650987673943",
+            "lang": "en",
+            "name": "Flame Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuascans.org",
+            "id": "4273874799952447458",
+            "lang": "en",
+            "name": "Goda"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://greedscans.com",
+            "id": "288706940180085416",
+            "lang": "en",
+            "name": "greed scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://grimscans.com",
+            "id": "8588684547293952127",
+            "lang": "en",
+            "name": "Grim Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.grrlpowercomic.com",
+            "id": "1991252499508931836",
+            "lang": "en",
+            "name": "Grrl Power Comic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.gunnerkrigg.com",
+            "id": "6036325841864340105",
+            "lang": "en",
+            "name": "Gunnerkrigg Court"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://guya.cubari.moe",
+            "id": "4637971935551651734",
+            "lang": "en",
+            "name": "Guya"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.blastwave-comic.com",
+            "id": "4006397036545425884",
+            "lang": "en",
+            "name": "Gone with the Blastwave"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hadesscans.com",
+            "id": "4351130568935854113",
+            "lang": "en",
+            "name": "Hades Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://en-hijala.com",
+            "id": "454381816904772144",
+            "lang": "en",
+            "name": "Hijala Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hiveworkscomics.com",
+            "id": "6620819060709781499",
+            "lang": "en",
+            "name": "Hiveworks Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.honkaiimpact3.com",
+            "id": "5652636928388608981",
+            "lang": "en",
+            "name": "Honkai Impact 3rd"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hivetoons.org",
+            "id": "6311653253665366075",
+            "lang": "en",
+            "name": "Hive Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://s2manga.io",
+            "id": "4144734547277607826",
+            "lang": "en",
+            "name": "S2Manga.io"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kaynscan.com",
+            "id": "3406901199711327034",
+            "lang": "en",
+            "name": "Kayn Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://twokinds.keenspot.com",
+            "id": "3133607736276627986",
+            "lang": "en",
+            "name": "Keenspot TwoKinds"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kencomics.com",
+            "id": "7831933086917318633",
+            "lang": "en",
+            "name": "Ken Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kewnscans.org",
+            "id": "2816768640766208312",
+            "lang": "en",
+            "name": "Kewn Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://killsixbilliondemons.com",
+            "id": "5520021760150818261",
+            "lang": "en",
+            "name": "KillSixBillionDemons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kmanga.kodansha.com",
+            "id": "8143442163119480220",
+            "lang": "en",
+            "name": "K Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lagoonscans.com",
+            "id": "7925933833035450162",
+            "lang": "en",
+            "name": "Lagoon Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lhtranslation.net",
+            "id": "8802607595629671202",
+            "lang": "en",
+            "name": "LHTranslation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://likemanga.ink",
+            "id": "6236979603959140497",
+            "lang": "en",
+            "name": "LikeManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://loadingartist.com",
+            "id": "1555415289901855998",
+            "lang": "en",
+            "name": "Loading Artist"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://luacomic.org",
+            "id": "972271455406675873",
+            "lang": "en",
+            "name": "Lua Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://madarascans.com",
+            "id": "9025563662441338944",
+            "lang": "en",
+            "name": "Madara Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.madokami.al",
+            "id": "7291521832235473745",
+            "lang": "en",
+            "name": "Madokami"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://magustoon.org",
+            "id": "1589747287364201069",
+            "lang": "en",
+            "name": "Magus Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangabolt.com",
+            "id": "286088605022156276",
+            "lang": "en",
+            "name": "MangaBolt"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangacloud.org",
+            "id": "8787213233662904706",
+            "lang": "en",
+            "name": "MangaCloud"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://demonicscans.org",
+            "id": "2900023289777642714",
+            "lang": "en",
+            "name": "Manga Demon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangadia.com",
+            "id": "408151224123746617",
+            "lang": "en",
+            "name": "MangaDia"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangahere.cc",
+            "id": "2",
+            "lang": "en",
+            "name": "Mangahere"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangakatana.com",
+            "id": "3170561626848540385",
+            "lang": "en",
+            "name": "MangaKatana"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangakiss.org",
+            "id": "2402699562771779060",
+            "lang": "en",
+            "name": "Manga Kiss"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangamo.com",
+            "id": "6458420328066857684",
+            "lang": "en",
+            "name": "Mangamo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangapanda.onl",
+            "id": "7661417715431651982",
+            "lang": "en",
+            "name": "MangaPanda.onl"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaplex.com",
+            "id": "7966610730196433224",
+            "lang": "en",
+            "name": "MangaPlex"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangareader.site",
+            "id": "2527199067559866087",
+            "lang": "en",
+            "name": "MangaReader.site"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.sailmg.com",
+            "id": "1536735425006207760",
+            "lang": "en",
+            "name": "Mangasail"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangasect.net",
+            "id": "794477486574207780",
+            "lang": "en",
+            "name": "Manga Sect"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangasushi.org",
+            "id": "3606721916149050760",
+            "lang": "en",
+            "name": "Mangasushi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reader.mangatellers.gr",
+            "id": "3478835885302345699",
+            "lang": "en",
+            "name": "Mangatellers"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangatone.com",
+            "id": "4097939041577353508",
+            "lang": "en",
+            "name": "MangaTone"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangatyrant.com",
+            "id": "2764028939948004818",
+            "lang": "en",
+            "name": "MangaTyrant"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuaes.com",
+            "id": "3087620036310234646",
+            "lang": "en",
+            "name": "Manhua ES"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuafast.net",
+            "id": "3913016041409072217",
+            "lang": "en",
+            "name": "ManhuaFast.net (unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuahot.com",
+            "id": "7638481723868333116",
+            "lang": "en",
+            "name": "ManhuaHot"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuanext.com",
+            "id": "3544957587727489204",
+            "lang": "en",
+            "name": "Manhuanext"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuaplus.com",
+            "id": "9030178752551947945",
+            "lang": "en",
+            "name": "Manhua Plus"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuaplus.org",
+            "id": "5075089422240578347",
+            "lang": "en",
+            "name": "ManhuaPlus (Unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuaus.com",
+            "id": "4005973248538140146",
+            "lang": "en",
+            "name": "ManhuaUS"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://megatokyo.com",
+            "id": "2609498548705590664",
+            "lang": "en",
+            "name": "Megatokyo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://meitoon.org",
+            "id": "3314074618469377356",
+            "lang": "en",
+            "name": "MeiToon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mistscans.com",
+            "id": "80073424419623517",
+            "lang": "en",
+            "name": "Mist Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://monochromecms.netlify.app",
+            "id": "1373514020932708527",
+            "lang": "en",
+            "name": "Monochrome Custom"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.d34d.one",
+            "id": "6808348229250819000",
+            "lang": "en",
+            "name": "Monochrome Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://msytoon.com",
+            "id": "4664597452940777047",
+            "lang": "en",
+            "name": "MSYToon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://necroscans.com",
+            "id": "4767860851588977182",
+            "lang": "en",
+            "name": "Necro Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nikatoons.com",
+            "id": "1688373109141386238",
+            "lang": "en",
+            "name": "Nika Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nitroscans.net",
+            "id": "1310352166897986481",
+            "lang": "en",
+            "name": "Nitro Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://noxenscan.com",
+            "id": "3116973119218453326",
+            "lang": "en",
+            "name": "Noxen Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nuxscans.blogspot.com",
+            "id": "5854986367394591788",
+            "lang": "en",
+            "name": "Nux Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nyanukafe.com",
+            "id": "3025454996745441538",
+            "lang": "en",
+            "name": "Nyanu Kafe"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nyxscans.com",
+            "id": "419822582289753882",
+            "lang": "en",
+            "name": "Nyx Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://w10.1punchman.com",
+            "id": "897097334505121559",
+            "lang": "en",
+            "name": "One Punch Man Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.giantitp.com",
+            "id": "6973362428290892964",
+            "lang": "en",
+            "name": "The Order Of The Stick (OOTS)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://patchfriday.com",
+            "id": "5782663927698937256",
+            "lang": "en",
+            "name": "Patch Friday"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://philiascans.org",
+            "id": "940450670010209918",
+            "lang": "en",
+            "name": "Philia Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://platinumscans.com",
+            "id": "2992840511596832495",
+            "lang": "en",
+            "name": "Platinum Crown"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://flamescans.lol",
+            "id": "1001157238479601077",
+            "lang": "en",
+            "name": "FlameScans.lol"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rackusreads.com",
+            "id": "263040414613624318",
+            "lang": "en",
+            "name": "Rackus"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://qimanhwa.com",
+            "id": "7597513901538568173",
+            "lang": "en",
+            "name": "Qi Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.questionablecontent.net",
+            "id": "5564060716297760161",
+            "lang": "en",
+            "name": "Questionable Content"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ragescans.com",
+            "id": "8692263513374836785",
+            "lang": "en",
+            "name": "Rage Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rainofsnow.com",
+            "id": "8901224921283550027",
+            "lang": "en",
+            "name": "Rain Of Snow"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://randowis.com",
+            "id": "1502370949450941405",
+            "lang": "en",
+            "name": "Randowiz"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://razure.org",
+            "id": "3017959474962204247",
+            "lang": "en",
+            "name": "Razure"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rdscans.com",
+            "id": "2492552743813599108",
+            "lang": "en",
+            "name": "RD Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://readallcomics.com",
+            "id": "58328287106519523",
+            "lang": "en",
+            "name": "ReadAllComics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww11.readsnk.com",
+            "id": "8930801332831394412",
+            "lang": "en",
+            "name": "Read Attack on Titan Shingeki no Kyojin Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://readberserk.com",
+            "id": "4917014756556380981",
+            "lang": "en",
+            "name": "Read Berserk Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww10.readblackclover.com",
+            "id": "6485938153129890061",
+            "lang": "en",
+            "name": "Read Black Clover Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww10.readmha.com",
+            "id": "4967091367056966966",
+            "lang": "en",
+            "name": "Read Boku no Hero Academia My Hero Academia Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://readcomiconline.li",
+            "id": "8061953015808280611",
+            "lang": "en",
+            "name": "ReadComicOnline"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://readcomicsonline.ru",
+            "id": "7185601298150078890",
+            "lang": "en",
+            "name": "Read Comics Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww8.readfairytail.com",
+            "id": "1330793582354406642",
+            "lang": "en",
+            "name": "Read Fairy Tail & Edens Zero Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww9.readhaikyuu.com",
+            "id": "4628986169871767425",
+            "lang": "en",
+            "name": "Read Haikyuu!! Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww5.readjujutsukaisen.com",
+            "id": "808850989053853006",
+            "lang": "en",
+            "name": "Read Jujutsu Kaisen Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww5.readkingdom.com",
+            "id": "7952360835727640966",
+            "lang": "en",
+            "name": "Read Kingdom Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww7.read7deadlysins.com",
+            "id": "3945031984510180731",
+            "lang": "en",
+            "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww11.readnaruto.com",
+            "id": "4152343549985168968",
+            "lang": "en",
+            "name": "Read Naruto Boruto Samurai 8 Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww12.readonepiece.com",
+            "id": "1061544757733451419",
+            "lang": "en",
+            "name": "Read One Piece Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww6.readopm.com",
+            "id": "8254209929759906152",
+            "lang": "en",
+            "name": "Read One-Punch Man Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww3.readsololeveling.org",
+            "id": "1374366734159205648",
+            "lang": "en",
+            "name": "Read Solo Leveling Manga Manhwa Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ww11.tokyoghoulre.com",
+            "id": "6468833665354206027",
+            "lang": "en",
+            "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://readbagabondo.com",
+            "id": "5300358436613908601",
+            "lang": "en",
+            "name": "Read Vagabond Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reallifecomics.com",
+            "id": "4890735226828164084",
+            "lang": "en",
+            "name": "Real Life Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reset-scans.org",
+            "id": "8358008083447218926",
+            "lang": "en",
+            "name": "Reset Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rinkocomics.com",
+            "id": "4915548839286527736",
+            "lang": "en",
+            "name": "Rinko Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ritharscans.com",
+            "id": "8220771912098311271",
+            "lang": "en",
+            "name": "RitharScans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rizzfables.com",
+            "id": "3062320139670175675",
+            "lang": "en",
+            "name": "Rizz Comic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rizzcomic.com",
+            "id": "8957809252307939773",
+            "lang": "en",
+            "name": "Rizz Comic (unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rokaricomics.com",
+            "id": "830150807344972132",
+            "lang": "en",
+            "name": "RokariComics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://roliascan.com",
+            "id": "3390167717659783669",
+            "lang": "en",
+            "name": "Rolia Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ryumanga.org",
+            "id": "4638024470188065245",
+            "lang": "en",
+            "name": "Ryumanga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sanascans.com",
+            "id": "1931508394363321246",
+            "lang": "en",
+            "name": "Sana Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://smbc-comics.com",
+            "id": "3035799230093482569",
+            "lang": "en",
+            "name": "Saturday Morning Breakfast Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.schlockmercenary.com",
+            "id": "4705692208637300585",
+            "lang": "en",
+            "name": "Schlock Mercenary"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sectscans.com",
+            "id": "2652802679518332659",
+            "lang": "en",
+            "name": "SectScans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://setsuscans.com",
+            "id": "8546397272954539389",
+            "lang": "en",
+            "name": "Setsu Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://violetscans.org",
+            "id": "9079184529211162476",
+            "lang": "en",
+            "name": "Violet Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shootingstarscans.com",
+            "id": "7432213955030892585",
+            "lang": "en",
+            "name": "Shooting Star Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sirenscans.com",
+            "id": "5804710058654490234",
+            "lang": "en",
+            "name": "Siren Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sleepytranslations.com",
+            "id": "5756634909776784131",
+            "lang": "en",
+            "name": "Sleepy Translations"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sas-api.fly.dev",
+            "id": "7250486205199627024",
+            "lang": "en",
+            "name": "Solar and Sundry"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://spmanhwa.online",
+            "id": "4735212915018805501",
+            "lang": "en",
+            "name": "Spmanhwa"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://stonescape.xyz",
+            "id": "5914422711950728870",
+            "lang": "en",
+            "name": "StoneScape"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.supermegacomics.com",
+            "id": "7900982727014582653",
+            "lang": "en",
+            "name": "SUPER MEGA"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://genzupdates.com",
+            "id": "1061713767402958340",
+            "lang": "en",
+            "name": "Genz Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://swordscomic.com",
+            "id": "4098334577101891258",
+            "lang": "en",
+            "name": "Swords Comic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tappytoon.net",
+            "id": "6816620706925036501",
+            "lang": "en",
+            "name": "TappyToon.Net"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tcbonepiecechapters.com",
+            "id": "1435116756378369709",
+            "lang": "en",
+            "name": "TCB Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tcbscanonepiecechapters.com",
+            "id": "3067475212004248014",
+            "lang": "en",
+            "name": "TCB Scans (Unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://jolleycomics.com",
+            "id": "7307224992915342074",
+            "lang": "en",
+            "name": "The Property of Hate"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://toonchill.com",
+            "id": "232118325347849348",
+            "lang": "en",
+            "name": "ToonChill"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tritinia.org",
+            "id": "6032516943051342273",
+            "lang": "en",
+            "name": "TritiniaScans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://utoon.net",
+            "id": "3650631607354829018",
+            "lang": "en",
+            "name": "Utoon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://valirscans.com",
+            "id": "5399846924306111232",
+            "lang": "en",
+            "name": "Valir Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://vanillascans.org",
+            "id": "587361422129220750",
+            "lang": "en",
+            "name": "Vanilla Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://vgperson.com/other/mangaviewer.php",
+            "id": "8735588151075137817",
+            "lang": "en",
+            "name": "vgperson"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.viz.com",
+            "id": "2727926930665642563",
+            "lang": "en",
+            "name": "VIZ Shonen Jump"
+        },
+        {
+            "baseUrl": "https://www.viz.com",
+            "id": "2964046845727023397",
+            "lang": "en",
+            "name": "VIZ Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.voyce.me",
+            "id": "4815322300278778429",
+            "lang": "en",
+            "name": "VoyceMe"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://xrabohrok.github.io/WarMap/#/",
+            "id": "9161629559428486377",
+            "lang": "en",
+            "name": "War For Rayuba"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.wearehunger.site",
+            "id": "7128834815853592616",
+            "lang": "en",
+            "name": "Wearehunger"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://webcomicsapp.com",
+            "id": "7547950838983208237",
+            "lang": "en",
+            "name": "Webcomics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://webdexscans.com",
+            "id": "7342583497283400166",
+            "lang": "en",
+            "name": "Webdex Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://webniichan.online",
+            "id": "8784127413757529635",
+            "lang": "en",
+            "name": "Web Niichan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.webnovel.com",
+            "id": "4081135203808920563",
+            "lang": "en",
+            "name": "WebNovel"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://witchscans.com",
+            "id": "8536147748985688790",
+            "lang": "en",
+            "name": "WitchScans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://woopread.com",
+            "id": "8919726581572234359",
+            "lang": "en",
+            "name": "WoopRead"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://writerscans.com",
+            "id": "561830040001881975",
+            "lang": "en",
+            "name": "Writer Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://wuxiaworld.site",
+            "id": "6540843430852844328",
+            "lang": "en",
+            "name": "WuxiaWorld"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://xoxocomic.com",
+            "id": "2385956107618754468",
+            "lang": "en",
+            "name": "XOXO Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://yakshacomics.com",
+            "id": "4871612284225100668",
+            "lang": "en",
+            "name": "YakshaComics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://yorai.io",
+            "id": "2494862276381566773",
+            "lang": "en",
+            "name": "Yorai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://zscans.com",
+            "id": "6757297486232346876",
+            "lang": "en",
+            "name": "Zero Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://zinmanga.net",
+            "id": "1987105317893699901",
+            "lang": "en",
+            "name": "Zinmanga.net"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://begatranslation.com",
+            "id": "6757330205319558057",
+            "lang": "es",
+            "name": "Bega Translation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bibliopanda.com",
+            "id": "8219271831795034464",
+            "lang": "es",
+            "name": "Biblio Panda"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bokugents.com",
+            "id": "1598762687295904337",
+            "lang": "es",
+            "name": "BokugenTranslation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://brakeout.xyz",
+            "id": "7123045421883828967",
+            "lang": "es",
+            "name": "Brakeout"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://legionscans.com/wp",
+            "id": "1814471239661920836",
+            "lang": "es",
+            "name": "Cerberus Series"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://codex.readkisho.me",
+            "id": "5416462601349591349",
+            "lang": "es",
+            "name": "Codex Zero"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://daprob.com",
+            "id": "5193352988321008008",
+            "lang": "es",
+            "name": "DapRob"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://datgarscanlation.blogspot.com",
+            "id": "1626637101814976364",
+            "lang": "es",
+            "name": "Dat-Gar Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://imperiomanhua.com",
+            "id": "4562754350961964148",
+            "lang": "es",
+            "name": "Emperor Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://escaneodeleyendas.com",
+            "id": "7243980374121466722",
+            "lang": "es",
+            "name": "Escaneo de Leyendas"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://gremorymangas.com",
+            "id": "6911130909796364094",
+            "lang": "es",
+            "name": "Gremory Mangas"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://infrafandub.com",
+            "id": "5594696691862732725",
+            "lang": "es",
+            "name": "InfraFandub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://inmanga.com",
+            "id": "6963106975536326424",
+            "lang": "es",
+            "name": "InManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://scanimnortal.com",
+            "id": "8879875375160764811",
+            "lang": "es",
+            "name": "Inmortal Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://insanosmanhua.com",
+            "id": "3274240800401031223",
+            "lang": "es",
+            "name": "Insanos Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://inventariooculto.com",
+            "id": "609477585841458199",
+            "lang": "es",
+            "name": "Inventario Oculto"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lectorhub.j5z.xyz",
+            "id": "5292079548510508306",
+            "lang": "es",
+            "name": "Jeaz Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.lectormangas.online",
+            "id": "7470188862319655999",
+            "lang": "es",
+            "name": "Lector MOnline"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.leercapitulo.co",
+            "id": "5621901596522308538",
+            "lang": "es",
+            "name": "LeerCapitulo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://leercomicsonline.com",
+            "id": "9032773415343199791",
+            "lang": "es",
+            "name": "Leer Comics Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangacrab.org",
+            "id": "6167683270485370369",
+            "lang": "es",
+            "name": "Manga Crab"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaesp.topmanhuas.org",
+            "id": "1995045995184096324",
+            "lang": "es",
+            "name": "MangaEsp"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangasnosekai.com",
+            "id": "829053423099062956",
+            "lang": "es",
+            "name": "Mangas No Sekai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://samurai.j5z.xyz",
+            "id": "5713083996691468192",
+            "lang": "es",
+            "name": "SamuraiScan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://marmota.me",
+            "id": "5937472249278743372",
+            "lang": "es",
+            "name": "Marmota"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.menudo-fansub.com",
+            "id": "3505996597464989970",
+            "lang": "es",
+            "name": "Menudo-Fansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mh.inventariooculto.com",
+            "id": "3253304651550496369",
+            "lang": "es",
+            "name": "MHScans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://monopolymanhua.com",
+            "id": "5862188113261788590",
+            "lang": "es",
+            "name": "Monopoly Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nobledicion.yoveo.xyz",
+            "id": "5125011410949702843",
+            "lang": "es",
+            "name": "Noblesse Translations"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://novamanhwa.cc",
+            "id": "2716608619626653265",
+            "lang": "es",
+            "name": "Nova Manhwas"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.novatoscans.top",
+            "id": "9161344173890108758",
+            "lang": "es",
+            "name": "Novato Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://olympusbiblioteca.com",
+            "id": "1596411039134168890",
+            "lang": "es",
+            "name": "Olympus Scanlation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ragnarokscanlation.org",
+            "id": "1348827658894665970",
+            "lang": "es",
+            "name": "Ragnarok Scanlation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://raikiscan.com",
+            "id": "7874966674901996300",
+            "lang": "es",
+            "name": "Raiki Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ravensword.lat",
+            "id": "698913079501532785",
+            "lang": "es",
+            "name": "RavenManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://r1.richtoon.top",
+            "id": "1245067583654716116",
+            "lang": "es",
+            "name": "RichtoScan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sapphirescan.com",
+            "id": "8955531858664387570",
+            "lang": "es",
+            "name": "SapphireScan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://capibaratraductor.com/senshimanga",
+            "id": "5781693635940874072",
+            "lang": "es",
+            "name": "Senshi Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://capibaratraductor.com/6ianfranc9",
+            "id": "852558842404987566",
+            "lang": "es",
+            "name": "6ianfranc9"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://skymangas.com",
+            "id": "8713024885922119175",
+            "lang": "es",
+            "name": "SkyMangas"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://swordofoblivion.com",
+            "id": "6084280098324546826",
+            "lang": "es",
+            "name": "Sword Of Oblivion"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lectortaurus.com",
+            "id": "5157867187592331768",
+            "lang": "es",
+            "name": "Taurus Fansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://anime-sama.pw",
+            "id": "5104384223103778991",
+            "lang": "fr",
+            "name": "AnimeSama"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://aralosbd.fr",
+            "id": "7086384324753337104",
+            "lang": "fr",
+            "name": "AralosBD"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://astral-manga.fr",
+            "id": "8815089098147858609",
+            "lang": "fr",
+            "name": "AstralManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bigsolo.org",
+            "id": "4410528266393104437",
+            "lang": "fr",
+            "name": "BigSolo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bluesolo.org",
+            "id": "2095949455655924623",
+            "lang": "fr",
+            "name": "Blue Solo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://chaostrad.fr",
+            "id": "7263540291758019148",
+            "lang": "fr",
+            "name": "ChaosTrad"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://fmteam.fr",
+            "id": "7699632518084274667",
+            "lang": "fr",
+            "name": "FMTEAM"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.frmanga.com",
+            "id": "6246540622722483868",
+            "lang": "fr",
+            "name": "FR Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.furyosociety.com/",
+            "id": "267710359229814456",
+            "lang": "fr",
+            "name": "FuryoSquad"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.japscan.foo/mangas/?sort=popular&p=1",
+            "id": "11",
+            "lang": "fr",
+            "name": "Japscan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kiwiyascans.com",
+            "id": "8654267899929745421",
+            "lang": "fr",
+            "name": "Kiwiya Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.lelmanga.com",
+            "id": "8647761747185981431",
+            "lang": "fr",
+            "name": "Lelmanga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lelscanfr.com",
+            "id": "4874205281198767614",
+            "lang": "fr",
+            "name": "Lelscan-VF"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-corporation.com",
+            "id": "1528177119657303302",
+            "lang": "fr",
+            "name": "Manga-Corporation"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangakawaii.io",
+            "id": "1384625280015637699",
+            "lang": "fr",
+            "name": "Mangakawaii"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangamoins.com",
+            "id": "6508647660473520087",
+            "lang": "fr",
+            "name": "MangaMoins"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.manga-nova.com",
+            "id": "514127183927359583",
+            "lang": "fr",
+            "name": "MangaNova"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangas-origines.fr",
+            "id": "4803238581797687746",
+            "lang": "fr",
+            "name": "Mangas-Origines.fr"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangas-scans.com",
+            "id": "8284543629565327451",
+            "lang": "fr",
+            "name": "Mangas Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://phenix-scans.com",
+            "id": "3854605086026361521",
+            "lang": "fr",
+            "name": "Phenix Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://poseidon-scans.co",
+            "id": "8936307069044646761",
+            "lang": "fr",
+            "name": "Poseidon Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://raijin-scans.fr",
+            "id": "8373267671495516033",
+            "lang": "fr",
+            "name": "Raijin Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reaper-scans.fr",
+            "id": "8021882997341141274",
+            "lang": "fr",
+            "name": "Reaper Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rimu-scans.fr",
+            "id": "203984087587807085",
+            "lang": "fr",
+            "name": "Rimu Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://scantrad-union.com",
+            "id": "155525085323453412",
+            "lang": "fr",
+            "name": "Scantrad Union"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.scan-vf.net",
+            "id": "2455131357585282669",
+            "lang": "fr",
+            "name": "Scan VF"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sirenscans.fr",
+            "id": "9130638185861146476",
+            "lang": "fr",
+            "name": "Siren Scans FR"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://epsilonsoft.to",
+            "id": "4969929389259348100",
+            "lang": "fr",
+            "name": "Soft Epsilon Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ainzscans01.com",
+            "id": "6828652413569586396",
+            "lang": "id",
+            "name": "Ainz Scans ID"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bacakomik.my",
+            "id": "4383360263234319058",
+            "lang": "id",
+            "name": "BacaKomik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bacami.net",
+            "id": "2677079941490683989",
+            "lang": "id",
+            "name": "Bacami"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comicazen.com",
+            "id": "4832525943536306191",
+            "lang": "id",
+            "name": "Comicazen"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://01.hwago.xyz",
+            "id": "5490253431755133280",
+            "lang": "id",
+            "name": "Hwago"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://izanamiscans.my.id",
+            "id": "831567442922111170",
+            "lang": "id",
+            "name": "Izanami Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://v1.kiryuu.to",
+            "id": "3639673976007021338",
+            "lang": "id",
+            "name": "Kiryuu"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://v1.komikcast.fit",
+            "id": "972717448578983812",
+            "lang": "id",
+            "name": "Komik Cast"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://komikindo.ch",
+            "id": "5384836574731339537",
+            "lang": "id",
+            "name": "KomikIndoID"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://komikstation.org",
+            "id": "6148605743576635261",
+            "lang": "id",
+            "name": "Komik Station"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://komiku.org",
+            "id": "4838485846640015979",
+            "lang": "id",
+            "name": "Komiku"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://01.komiku.asia",
+            "id": "8489420317813224728",
+            "lang": "id",
+            "name": "Komiku.com"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://komikzoid.id",
+            "id": "2556223347862084050",
+            "lang": "id",
+            "name": "Komikzoid"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.lepoytl.my.id",
+            "id": "1601772753251290758",
+            "lang": "id",
+            "name": "LepoyTL"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lumire.asia",
+            "id": "5049126293924101116",
+            "lang": "id",
+            "name": "LumireVerse"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://02.lumosgg.com",
+            "id": "2530259860313477889",
+            "lang": "id",
+            "name": "LumosKomik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://mangalay.blogspot.com",
+            "id": "7859511511298731707",
+            "lang": "id",
+            "name": "Mangalay"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhwalist02.site",
+            "id": "3111049819536223391",
+            "lang": "id",
+            "name": "Manhwa List"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://isekaikomik.com",
+            "id": "1031213229391436059",
+            "lang": "id",
+            "name": "Manhwalist.org"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://id.mgkomik.cc",
+            "id": "5845004992097969882",
+            "lang": "id",
+            "name": "MG Komik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://neumanga.xyz",
+            "id": "415841836762720830",
+            "lang": "id",
+            "name": "Neumanga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ngamenkomik05.blogspot.com",
+            "id": "4607768416266139943",
+            "lang": "id",
+            "name": "NgamenKomik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ngomik.mom",
+            "id": "5360960267485387879",
+            "lang": "id",
+            "name": "Ngomik (unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.okyykomik.my.id",
+            "id": "8361715798247396418",
+            "lang": "id",
+            "name": "OkyyKomik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://onepieceberwarna.com",
+            "id": "6327374097013138583",
+            "lang": "id",
+            "name": "One Piece Berwarna"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sektekomik.xyz",
+            "id": "7081372932062301579",
+            "lang": "id",
+            "name": "Sekte Komik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://09.shinigami.asia",
+            "id": "3411809758861089969",
+            "lang": "id",
+            "name": "Shinigami"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shirakami.xyz",
+            "id": "7712565009997781291",
+            "lang": "id",
+            "name": "Shirakami"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shiyurasub.blogspot.com",
+            "id": "7106013231844823613",
+            "lang": "id",
+            "name": "ShiyuraSub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://softkomik.com",
+            "id": "4398521787288838980",
+            "lang": "id",
+            "name": "Softkomik"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://soulscans.my.id",
+            "id": "8061354444776372735",
+            "lang": "id",
+            "name": "Soul Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://themanga.my.id",
+            "id": "4154955713546598190",
+            "lang": "id",
+            "name": "TheManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.ulascomic01.xyz",
+            "id": "440952493414630310",
+            "lang": "id",
+            "name": "Ulas Comic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://www.agcscanlation.it/",
+            "id": "726858430404746545",
+            "lang": "it",
+            "name": "Anime GDR Club"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dgtread.com",
+            "id": "4450188005228586123",
+            "lang": "it",
+            "name": "DigitalTeam"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reader.gtothegreatsite.net",
+            "id": "2773063800266255222",
+            "lang": "it",
+            "name": "GTO The Great Site"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://reader.hastateam.com",
+            "id": "3278618591126542009",
+            "lang": "it",
+            "name": "Hasta Team"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lupiteam.net",
+            "id": "148102640598931038",
+            "lang": "it",
+            "name": "LupiTeam"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangaworld.mx",
+            "id": "7114846210461894145",
+            "lang": "it",
+            "name": "Mangaworld"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://read-nifteam.info",
+            "id": "7816508865953731299",
+            "lang": "it",
+            "name": "NIFTeam"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.phoenixscans.com",
+            "id": "6272882172599295519",
+            "lang": "it",
+            "name": "Phoenix Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tuttoanimemanga.net",
+            "id": "2102507871480604746",
+            "lang": "it",
+            "name": "TuttoAnimeManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.walpurgiscan.it",
+            "id": "6566957355096372149",
+            "lang": "it",
+            "name": "Walpurgi Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.zeurelscan.com",
+            "id": "8830049663587145084",
+            "lang": "it",
+            "name": "ZeurelScan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://bigcomics.jp",
+            "id": "2944603286439592172",
+            "lang": "ja",
+            "name": "Big Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ciao.shogakukan.co.jp",
+            "id": "1585589665574145721",
+            "lang": "ja",
+            "name": "Ciao Plus"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-boost.com",
+            "id": "1188951475836296058",
+            "lang": "ja",
+            "name": "Comic Boost"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comicborder.com",
+            "id": "1077630719925082256",
+            "lang": "ja",
+            "name": "Comic Border"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-days.com",
+            "id": "5332604811772266259",
+            "lang": "ja",
+            "name": "Comic Days"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-earthstar.com",
+            "id": "3574188328700228273",
+            "lang": "ja",
+            "name": "Comic Earth Star"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-gardo.com",
+            "id": "3118962894631295374",
+            "lang": "ja",
+            "name": "Comic Gardo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://novema.jp",
+            "id": "218928749727744731",
+            "lang": "ja",
+            "name": "Comic Grast"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-medu.com",
+            "id": "7310112963091407823",
+            "lang": "ja",
+            "name": "Comic MeDu"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.comicnettai.com",
+            "id": "1398057210066455013",
+            "lang": "ja",
+            "name": "Comic Nettai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comicpash.jp",
+            "id": "6626616605316433619",
+            "lang": "ja",
+            "name": "Comic Pash"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comicride.jp",
+            "id": "6786869574657969795",
+            "lang": "ja",
+            "name": "Comic Ride"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.comic-ryu.jp",
+            "id": "516402804198118822",
+            "lang": "ja",
+            "name": "Comic Ryu"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-y-ours.com",
+            "id": "6785510785647577495",
+            "lang": "ja",
+            "name": "Comic Y-OURs"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://viewer.heros-web.com",
+            "id": "1322991157305499061",
+            "lang": "ja",
+            "name": "Comiplex"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.corocoro.jp",
+            "id": "7653486023663086171",
+            "lang": "ja",
+            "name": "Corocoro Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://cycomi.com",
+            "id": "8354556596244088751",
+            "lang": "ja",
+            "name": "CyComi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dbook.docomo.ne.jp",
+            "id": "2833994049092509182",
+            "lang": "ja",
+            "name": "Docomo"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://drecom-media.jp",
+            "id": "1192219287792216887",
+            "lang": "ja",
+            "name": "DRE Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://firecross.jp",
+            "id": "6276622162610581454",
+            "lang": "ja",
+            "name": "FireCross"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://flowercomics.jp",
+            "id": "6525907185900913523",
+            "lang": "ja",
+            "name": "Flower Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.ganganonline.com",
+            "id": "1467355738916791140",
+            "lang": "ja",
+            "name": "Gangan Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ganma.jp",
+            "id": "8045942616403978870",
+            "lang": "ja",
+            "name": "GANMA!"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://gaugau.futabanet.jp",
+            "id": "9220365500598403749",
+            "lang": "ja",
+            "name": "がうがうモンスター＋"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ichicomi.com",
+            "id": "2248461957459826404",
+            "lang": "ja",
+            "name": "Ichicomi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic.j-nbooks.jp",
+            "id": "2876739237900975302",
+            "lang": "ja",
+            "name": "J-N Books"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rookie.shonenjump.com",
+            "id": "4194563020378281165",
+            "lang": "ja",
+            "name": "Jump Rookie!"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-walker.com",
+            "id": "8396089563187142394",
+            "lang": "ja",
+            "name": "カドコミ"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kimicomi.com",
+            "id": "645302785022492537",
+            "lang": "ja",
+            "name": "KimiComi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://pocket.shonenmagazine.com",
+            "id": "583369548372015159",
+            "lang": "ja",
+            "name": "Magazine Pocket"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://magcomi.com",
+            "id": "8643773902904736600",
+            "lang": "ja",
+            "name": "MAGCOMI"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kansai.mag-garden.co.jp",
+            "id": "8826192789792786070",
+            "lang": "ja",
+            "name": "MagKan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comics.manga-bang.com",
+            "id": "6323380629311776595",
+            "lang": "ja",
+            "name": "MangaBang Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://championcross.jp",
+            "id": "4711824862797870329",
+            "lang": "ja",
+            "name": "Champion Cross"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangakuro.net",
+            "id": "4278045440527026000",
+            "lang": "ja",
+            "name": "MangaKuro"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga-park.com",
+            "id": "2905661176145448719",
+            "lang": "ja",
+            "name": "Manga-Park"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangaz.com",
+            "id": "7564150377964448106",
+            "lang": "ja",
+            "name": "マンガ図書館Z"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.manga-up.com",
+            "id": "697820552173578283",
+            "lang": "ja",
+            "name": "Manga UP! (Japan)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sp.manga.nicovideo.jp",
+            "id": "1452408892924080686",
+            "lang": "ja",
+            "name": "Nicovideo Seiga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nikkangecchan.jp",
+            "id": "5200293225675847390",
+            "lang": "ja",
+            "name": "Nikkangecchan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://pash-up.jp",
+            "id": "4500173675620672840",
+            "lang": "ja",
+            "name": "Pash Up!"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://piccoma.com",
+            "id": "7159690625157327655",
+            "lang": "ja",
+            "name": "Piccoma"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic.pixiv.net",
+            "id": "2937751339618832603",
+            "lang": "ja",
+            "name": "Pixivコミック"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rimacomiplus.jp",
+            "id": "8784054084293367959",
+            "lang": "ja",
+            "name": "RimacomiPlus"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://raw.senmanga.com",
+            "id": "7715542271185249444",
+            "lang": "ja",
+            "name": "Sen Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shonenjumpplus.com",
+            "id": "5161357527629843269",
+            "lang": "ja",
+            "name": "Shonen Jump+"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://takecomic.jp",
+            "id": "5158991361251014104",
+            "lang": "ja",
+            "name": "TakeComic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tonarinoyj.jp",
+            "id": "5726629019734498294",
+            "lang": "ja",
+            "name": "Tonari no Young Jump"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sai-zen-sen.jp/comics/twi4/",
+            "id": "493846804748918744",
+            "lang": "ja",
+            "name": "Twi4"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://video.unext.jp",
+            "id": "1896940876613282856",
+            "lang": "ja",
+            "name": "U-NEXT"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ynjn.jp",
+            "id": "3322701627784242064",
+            "lang": "ja",
+            "name": "Young Jump+"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.yomonga.com",
+            "id": "7561635982432447429",
+            "lang": "ja",
+            "name": "Yomonga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://younganimal.com",
+            "id": "3590997004623427971",
+            "lang": "ja",
+            "name": "Young Animal"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic-zenon.com",
+            "id": "5353704886651317926",
+            "lang": "ja",
+            "name": "Zenon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://zerosumonline.com",
+            "id": "8525996702535864887",
+            "lang": "ja",
+            "name": "Zerosum Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic.naver.com",
+            "id": "1311262507446028482",
+            "lang": "ko",
+            "name": "Naver Webtoon"
+        },
+        {
+            "baseUrl": "https://comic.naver.com",
+            "id": "3983114856627782141",
+            "lang": "ko",
+            "name": "Naver Webtoon Best Challenge"
+        },
+        {
+            "baseUrl": "https://comic.naver.com",
+            "id": "4487676425355815867",
+            "lang": "ko",
+            "name": "Naver Webtoon Challenge"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tkor.dog",
+            "id": "6596496791271983268",
+            "lang": "ko",
+            "name": "Toonkor"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangahona.pl",
+            "id": "8922529241027133892",
+            "lang": "pl",
+            "name": "MangaHoNa"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.animexnovel.com",
+            "id": "3639622845750368999",
+            "lang": "pt-BR",
+            "name": "AnimeXNovel"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://capitoons.com",
+            "id": "4475020039832513819",
+            "lang": "pt-BR",
+            "name": "Capitoons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://apenasuma-fa.blogspot.com",
+            "id": "6897166867127039489",
+            "lang": "pt-BR",
+            "name": "Apenas Uma Fã"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://aniargos.com",
+            "id": "2731562656488805764",
+            "lang": "pt-BR",
+            "name": "Argos Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://argoscomics.online",
+            "id": "8713848303046960987",
+            "lang": "pt-BR",
+            "name": "Argos Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://arthurscan.xyz",
+            "id": "1641160681602874924",
+            "lang": "pt-BR",
+            "name": "Arthur Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://new.astratoons.com",
+            "id": "551908063793499841",
+            "lang": "pt-BR",
+            "name": "Astratoons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://atemporal.cloud",
+            "id": "4457222405258030659",
+            "lang": "pt-BR",
+            "name": "Atemporal"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://leitor.borutoexplorer.com.br",
+            "id": "2962682340286299668",
+            "lang": "pt-BR",
+            "name": "Boruto Explorer"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://dangoscan.com.br",
+            "id": "5279929088618194033",
+            "lang": "pt-BR",
+            "name": "Dango Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://fairydream.com.br",
+            "id": "2058412298484770949",
+            "lang": "pt-BR",
+            "name": "Dream Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.hq-now.com",
+            "id": "1639829368022947378",
+            "lang": "pt-BR",
+            "name": "HQ Now!"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://imperiodabritannia.com",
+            "id": "7355004027880350247",
+            "lang": "pt-BR",
+            "name": "Sagrado Império da Britannia"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kairostoons.net",
+            "id": "3369880498778715870",
+            "lang": "pt-BR",
+            "name": "Kairos Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kakuseiproject.com",
+            "id": "4352186290154944735",
+            "lang": "pt-BR",
+            "name": "Kakusei Project"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://leitor.kamisama.com.br",
+            "id": "5221484950287110636",
+            "lang": "pt-BR",
+            "name": "Kami Sama Explorer"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://beta.kuromangas.com",
+            "id": "73579729889528478",
+            "lang": "pt-BR",
+            "name": "KuroMangas"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://leitordemanga.com",
+            "id": "2818837330174796449",
+            "lang": "pt-BR",
+            "name": "Leitor de Mangá"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ler999.blogspot.com",
+            "id": "11864058740306611",
+            "lang": "pt-BR",
+            "name": "Ler 999"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lycantoons.com",
+            "id": "9117178890425713139",
+            "lang": "pt-BR",
+            "name": "Lycan Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangalivre.tv",
+            "id": "2834885536325274328",
+            "lang": "pt-BR",
+            "name": "Manga Livre"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangalivre.blog",
+            "id": "588678420372440028",
+            "lang": "pt-BR",
+            "name": "Manga Livre Blog"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaonline.red",
+            "id": "3930085636692943299",
+            "lang": "pt-BR",
+            "name": "Manga Online"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangastop.net",
+            "id": "924359643993288771",
+            "lang": "pt-BR",
+            "name": "Manga Stop"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangotoons.com",
+            "id": "8989984812354857153",
+            "lang": "pt-BR",
+            "name": "Mango Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://montetaiscanlator.xyz",
+            "id": "7427054289018024291",
+            "lang": "pt-BR",
+            "name": "Monte Tai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mugiwarasoficial.com",
+            "id": "2079534153507614534",
+            "lang": "pt-BR",
+            "name": "Mugiwaras Oficial"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ninjacomics.xyz",
+            "id": "4392067503694697213",
+            "lang": "pt-BR",
+            "name": "Ninja Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://onepieceteca.com",
+            "id": "8410680598481767598",
+            "lang": "pt-BR",
+            "name": "One Piece TECA"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://scanpinkrosa.blogspot.com",
+            "id": "8456404960509331854",
+            "lang": "pt-BR",
+            "name": "Pink Rosa"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://plumacomics.cloud",
+            "id": "800704868906538326",
+            "lang": "pt-BR",
+            "name": "Pluma Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://kitsuneyako.com",
+            "id": "2210021497257492329",
+            "lang": "pt-BR",
+            "name": "Point Zero Toons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://luratoons.net",
+            "id": "1108163814448330624",
+            "lang": "pt-BR",
+            "name": "Lura Toon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rfdragonscan.com",
+            "id": "3492404357721425345",
+            "lang": "pt-BR",
+            "name": "RF Dragon Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://risentoons.xyz",
+            "id": "4905131080278546043",
+            "lang": "pt-BR",
+            "name": "Risentoons"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://housesaikai.net",
+            "id": "273341846992513187",
+            "lang": "pt-BR",
+            "name": "Saikai Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://yomu.com.br",
+            "id": "1497838059713668619",
+            "lang": "pt-BR",
+            "name": "Yomu Comics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://beta.toonbr.com",
+            "id": "534693024654050396",
+            "lang": "pt-BR",
+            "name": "ToonBr"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://traducoesdolipe.blogspot.com",
+            "id": "3650511144741653873",
+            "lang": "pt-BR",
+            "name": "Traduções do Lipe"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://wolftoon.lovable.app",
+            "id": "2666797837434784507",
+            "lang": "pt-BR",
+            "name": "Wolftoon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://yugenmangasbr.dxtg.online",
+            "id": "6397779552798039942",
+            "lang": "pt-BR",
+            "name": "Yugen Mangás"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://com-x.life",
+            "id": "1114173092141608635",
+            "lang": "ru",
+            "name": "Com-X"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaclub.ru",
+            "id": "6157490448326783413",
+            "lang": "ru",
+            "name": "MangaClub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://a.zazaza.me",
+            "id": "5",
+            "lang": "ru",
+            "name": "ReadManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://rumix.me",
+            "id": "6651547640332983611",
+            "lang": "ru",
+            "name": "RuMIX"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://1.selfmanga.live",
+            "id": "5227602742162454547",
+            "lang": "ru",
+            "name": "SelfManga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://senkuro.me",
+            "id": "1452500215874655811",
+            "lang": "ru",
+            "name": "Senkuro"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://unicomics.ru",
+            "id": "6859623422196397486",
+            "lang": "ru",
+            "name": "UniComics"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://read.yagami.me",
+            "id": "5458965504724393093",
+            "lang": "ru",
+            "name": "YagamiProject"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.doodmanga.com",
+            "id": "4393941999923514698",
+            "lang": "th",
+            "name": "Doodmanga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.manhuabug.com",
+            "id": "1111043926688521377",
+            "lang": "th",
+            "name": "ManhuaBug"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.manhuathai.com",
+            "id": "7916744898099174736",
+            "lang": "th",
+            "name": "ManhuaThai"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.manhwabreakup.com",
+            "id": "4798104006981431448",
+            "lang": "th",
+            "name": "ManhwaBreakup"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.adonisfansub.com",
+            "id": "8964063758548358169",
+            "lang": "tr",
+            "name": "Adonis Fansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://afroditscans.com",
+            "id": "3683779036959581042",
+            "lang": "tr",
+            "name": "Afrodit Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://alucardscans.com",
+            "id": "4020109289796113875",
+            "lang": "tr",
+            "name": "Alucard Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://anikiga.com",
+            "id": "8011699941614610362",
+            "lang": "tr",
+            "name": "Anikiga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://araznovel.com",
+            "id": "7380467428978561926",
+            "lang": "tr",
+            "name": "ArazNovel"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://armoniscans.net",
+            "id": "7171304938804369512",
+            "lang": "tr",
+            "name": "Armoni Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://asemifansub.com",
+            "id": "1651994405108113009",
+            "lang": "tr",
+            "name": "Asemi Fansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://asurascans.com.tr",
+            "id": "174388226839740265",
+            "lang": "tr",
+            "name": "Asura Scans TR"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://diamondfansub.com",
+            "id": "4357416108470845594",
+            "lang": "tr",
+            "name": "DiamondFansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://eldermanga.com",
+            "id": "6116237872032387919",
+            "lang": "tr",
+            "name": "Elder Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://gafeland.com",
+            "id": "3266930735690843593",
+            "lang": "tr",
+            "name": "gafeland"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://gaiatoon.com",
+            "id": "7364322791901505063",
+            "lang": "tr",
+            "name": "Gaiatoon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://garciamanga.com",
+            "id": "4962507861930922611",
+            "lang": "tr",
+            "name": "Garcia Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://golgebahcesi.com",
+            "id": "9140435144936721031",
+            "lang": "tr",
+            "name": "Gölge Bahçesi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://hayalistic.net",
+            "id": "546920749196078093",
+            "lang": "tr",
+            "name": "Hayalistic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://holyscans.com.tr",
+            "id": "5655539211698234342",
+            "lang": "tr",
+            "name": "Holy Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nabimanga.com",
+            "id": "1475942648540931708",
+            "lang": "tr",
+            "name": "Koreli Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://lilyumfansub.com.tr",
+            "id": "8792180185763099532",
+            "lang": "tr",
+            "name": "LilyumFansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangadenizi.net",
+            "id": "5186628758186958017",
+            "lang": "tr",
+            "name": "MangaDenizi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangagezgini.online",
+            "id": "6502558540101660304",
+            "lang": "tr",
+            "name": "MangaGezgini"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangakings.com.tr",
+            "id": "6973335901813470266",
+            "lang": "tr",
+            "name": "Manga Kings"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangakusu.com",
+            "id": "6479744508771928030",
+            "lang": "tr",
+            "name": "Manga Kusu"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangaokutr.net",
+            "id": "3486302556987174977",
+            "lang": "tr",
+            "name": "Manga Oku TR"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mangaship.net",
+            "id": "7110025728969951060",
+            "lang": "tr",
+            "name": "Manga Ship"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.tilkiscans.com",
+            "id": "1820900722595855271",
+            "lang": "tr",
+            "name": "MangaTilkisi"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangawow.org",
+            "id": "2576579305327069452",
+            "lang": "tr",
+            "name": "MangaWOW"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangawt.com",
+            "id": "9068262319581900273",
+            "lang": "tr",
+            "name": "MangaWT"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://merlintoon.com",
+            "id": "4883620005315879682",
+            "lang": "tr",
+            "name": "Merlin Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nirvanamanga.com",
+            "id": "2783611133798677654",
+            "lang": "tr",
+            "name": "Nirvana Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.patimanga.com",
+            "id": "6167788720399583825",
+            "lang": "tr",
+            "name": "Pati Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ragnarscans.com",
+            "id": "1571842183434448758",
+            "lang": "tr",
+            "name": "Ragnar Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.raindropteamfan.com",
+            "id": "5020277403848576351",
+            "lang": "tr",
+            "name": "Raindrop Fansub"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.ruyamanga2.com",
+            "id": "5786550835901373927",
+            "lang": "tr",
+            "name": "Rüya Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://ruyamanga.net",
+            "id": "5507342509037890098",
+            "lang": "tr",
+            "name": "Rüya Manga.net"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://sereinscan.com",
+            "id": "1993924607457500259",
+            "lang": "tr",
+            "name": "Serein Scan"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shadowceviri.blogspot.com",
+            "id": "3852979672050614736",
+            "lang": "tr",
+            "name": "Shadow Çeviri"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://shijiescans.com",
+            "id": "876756264275379458",
+            "lang": "tr",
+            "name": "Shijie Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://summertoons.com",
+            "id": "1346985078461508977",
+            "lang": "tr",
+            "name": "SummerToon"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.tarotscans.com",
+            "id": "8054539304013575208",
+            "lang": "tr",
+            "name": "Tarot Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tempestmangas.com",
+            "id": "5317159072505726832",
+            "lang": "tr",
+            "name": "Tempest Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tenshimanga.com",
+            "id": "2411958552582145537",
+            "lang": "tr",
+            "name": "Tenshi Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://tortugaceviri.com",
+            "id": "1479830960881750685",
+            "lang": "tr",
+            "name": "Tortuga Ceviri"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://trmangaoku.com",
+            "id": "1213201447439140959",
+            "lang": "tr",
+            "name": "Türkçe Manga Oku"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://uzaymanga.com",
+            "id": "2393888465804377486",
+            "lang": "tr",
+            "name": "Uzay Manga"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://webtoonhatti.club",
+            "id": "8902732421830627437",
+            "lang": "tr",
+            "name": "Webtoon Hatti"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://zenithscans.com",
+            "id": "1669762383546832433",
+            "lang": "tr",
+            "name": "Zenith Scans"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manga.io.vn",
+            "id": "7595811359698226104",
+            "lang": "vi",
+            "name": "DocTruyen5s"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://goctruyentranhvui21.com",
+            "id": "2831859393730435398",
+            "lang": "vi",
+            "name": "Goc Truyen Tranh Vui"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhuarock4.site",
+            "id": "5818973680777851987",
+            "lang": "vi",
+            "name": "ManhuaRock"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nettruyenar.com",
+            "id": "3563992092786616290",
+            "lang": "vi",
+            "name": "NetTruyenCO (unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nettruyenx.net",
+            "id": "3129953610837449394",
+            "lang": "vi",
+            "name": "NetTruyenX (unoriginal)"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://newtruyentranh7.com",
+            "id": "2947299136081074220",
+            "lang": "vi",
+            "name": "NewTruyenTranh"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://nhattruyenqq.com",
+            "id": "6861496002170366525",
+            "lang": "vi",
+            "name": "NhatTruyen"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://otruyen.cc",
+            "id": "8070757025584294717",
+            "lang": "vi",
+            "name": "OTruyen"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://foxtruyen2.com",
+            "id": "1458993267006200127",
+            "lang": "vi",
+            "name": "FoxTruyen"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://truyenqqno.com",
+            "id": "2553532324170433933",
+            "lang": "vi",
+            "name": "TruyenQQ"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.zettruyen.africa",
+            "id": "893747327087652119",
+            "lang": "vi",
+            "name": "ZetTruyen"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.darpou.com/",
+            "id": "6537411878674780825",
+            "lang": "zh",
+            "name": "百漫谷"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://cn.baozimh.com",
+            "id": "5724751873601868259",
+            "lang": "zh",
+            "name": "包子漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://baozimh.org#, https://godamh.com#, https://m.baozimh.one#, https://bzmh.org#, https://g-mh.org#, https://m.g-mh.org",
+            "id": "774030471139699415",
+            "lang": "zh",
+            "name": "GoDa漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic.bh3.com",
+            "id": "5943234929466346733",
+            "lang": "zh",
+            "name": "《崩坏3》IP站"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.8comic.com",
+            "id": "8110122805257580230",
+            "lang": "zh",
+            "name": "無限動漫"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.creative-comic.tw",
+            "id": "8346821279138091413",
+            "lang": "zh-Hant",
+            "name": "CCC追漫台"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.dongmanmanhua.cn",
+            "id": "4222375517460530289",
+            "lang": "zh-Hans",
+            "name": "Dongman Manhua"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://m.dumanwu1.com",
+            "id": "7167507050606280098",
+            "lang": "zh",
+            "name": "读漫屋"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://m.happymh.com",
+            "id": "6523822705383645833",
+            "lang": "zh",
+            "name": "嗨皮漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.iqiyi.com/manhua",
+            "id": "2198877009406729694",
+            "lang": "zh-Hans",
+            "name": "爱奇艺叭嗒"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://mangabz.com#, https://xmanhua.com#, https://yymanhua.com",
+            "id": "5234610795363016972",
+            "lang": "zh",
+            "name": "Mangabz"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://mangaapi.manhuaren.com",
+            "id": "3616827811449702173",
+            "lang": "zh",
+            "name": "漫画人"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.mhua5.com",
+            "id": "3279300917142951720",
+            "lang": "zh",
+            "name": "漫画屋"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://m.wmh1234.com",
+            "id": "7895725080195720063",
+            "lang": "zh",
+            "name": "漫画1234"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.miaoqumh.org",
+            "id": "116946528518438525",
+            "lang": "zh",
+            "name": "喵趣漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://m.rumanhua2.com",
+            "id": "392262758488714109",
+            "lang": "zh",
+            "name": "如漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://m.ac.qq.com",
+            "id": "6353436350537369479",
+            "lang": "zh-Hans",
+            "name": "腾讯动漫"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://comic.hypergryph.com",
+            "id": "4585134706567717130",
+            "lang": "zh",
+            "name": "泰拉记事社"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://www.vomicmh.com",
+            "id": "3329849726908639188",
+            "lang": "zh",
+            "name": "vomic"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://manhua.zaimanhua.com",
+            "id": "524579092615598717",
+            "lang": "zh",
+            "name": "再漫画"
+        }
+    ],
+    [
+        {
+            "baseUrl": "https://www.zazhimi.net",
+            "id": "6466445276541048432",
+            "lang": "zh",
+            "name": "杂志迷"
+        }
+    ],
+    [
+        {
+            "baseUrl": "http://www.zerobywb.com",
+            "id": "8743284448117690086",
+            "lang": "zh",
+            "name": "zero搬运网"
+        }
+    ]
+]

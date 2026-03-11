@@ -1,0 +1,3 @@
+/home/ui_mikey/code_play_ground/JSON TEST/build/CMakeFiles/JSON_TEST.dir
+/home/ui_mikey/code_play_ground/JSON TEST/build/CMakeFiles/edit_cache.dir
+/home/ui_mikey/code_play_ground/JSON TEST/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,56 @@
+[
+    {
+        "baseUrl": "https://comic-growl.com",
+        "id": "299423548273637501",
+        "lang": "all",
+        "name": "Comic Growl"
+    },
+    {
+        "baseUrl": "https://cubari.moe",
+        "id": "1470847599087460255",
+        "lang": "all",
+        "name": "Cubari"
+    },
+    {
+        "baseUrl": "https://grabber.zone",
+        "id": "7008887237419113673",
+        "lang": "all",
+        "name": "Grabber Zone"
+    },
+    {
+        "baseUrl": "https://hni-scantrad.net",
+        "id": "4972198006998831006",
+        "lang": "all",
+        "name": "HNI-Scantrad"
+    },
+    {
+        "baseUrl": "https://kodokustudio.com",
+        "id": "1835150489344342556",
+        "lang": "all",
+        "name": "Kodoku Studio"
+    },
+    {
+        "baseUrl": "https://mangadraft.com",
+        "id": "6866320578550428692",
+        "lang": "all",
+        "name": "MangaDraft"
+    },
+    {
+        "baseUrl": "https://www.peppercarrot.com",
+        "id": "279282683217001983",
+        "lang": "all",
+        "name": "Pepper&Carrot"
+    },
+    {
+        "baseUrl": "https://projectsuki.com/",
+        "id": "8965918600406781666",
+        "lang": "all",
+        "name": "Project Suki"
+    },
+    {
+        "baseUrl": "https://taddy.org",
+        "id": "2332326521515456967",
+        "lang": "all",
+        "name": "Taddy INK (Webtoons)"
+    }
+]
